@@ -5,7 +5,7 @@ branding:
   icon: 'printer'
   color: 'yellow'
 inputs:
-   resume_filepath:
+  resume_filepath:
     description: |
       File path of the resume in JSONResume format
     required: false
